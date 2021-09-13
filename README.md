@@ -1,5 +1,5 @@
 # imgbb.sh
-Simple bash script to upload images to imgbb. Supports uploading multiple images at once. Also copied the direct image link to respective clipboard.
+Command line interface to upload images to imgbb. Supports uploading multiple images at once. Also copied the direct image link to respective clipboard.
 
 ## Installation
 
